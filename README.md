@@ -1,2 +1,2 @@
-# os_sim
-A simulation of how an OS functions, implemented using C++
+# CSCI340: Project
+This was originally my CSCI340 project that is related to operating systems.
