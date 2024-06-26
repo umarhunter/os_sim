@@ -16,7 +16,7 @@
 
 ### Using CMake
 1. **Install CMake**: Ensure you have CMake installed on your system. You can download it from [here](https://cmake.org/download/).
-2. **Create a Build Directory**: Navigate to your project directory and create a build directory.
+2. **Create a Build Directory and enter it**: Navigate to your project directory and create a build directory.
     ```sh
     mkdir build
     cd build
